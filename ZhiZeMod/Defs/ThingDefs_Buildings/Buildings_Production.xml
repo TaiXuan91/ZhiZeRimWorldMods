@@ -98,7 +98,7 @@
       <Steel>240</Steel>
       <ComponentIndustrial>12</ComponentIndustrial>
       <Plasteel>20</Plasteel>
-      <Gold>0.6</Gold>
+      <Gold>6</Gold>
     </costList>
     <comps>
       <li Class="CompProperties_AffectedByFacilities">
